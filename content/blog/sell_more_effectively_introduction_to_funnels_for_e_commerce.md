@@ -1,5 +1,5 @@
 +++
-baseURL = "https://trinitytakei.io"
+baseURL = "https://www.trinitytakei.io"
 Categories = ["Shopify"]
 Description = "Setting up sales funnels can dramatically increase your conversion rate, average basket value, customer lifetime value, retention and loyalty. You can fine tune your funnels to achieve various goals, rannging from customer acquiring to effective communication, retention, reactivation and more. Get started today!"
 Tags = ["E-commerce","Shopify","Sales","Funnels","Sales Funnels"]
