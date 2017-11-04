@@ -45,6 +45,8 @@ That is precisely the path most e-commerce store owners lead their prospect thou
 
 It's actually worse than that: a brick & mortar shopper can at least observe and touch the product. Ask questions right away. Can be persuaded to feel a more significant pressure to buy. If she decides to purchase, she can do so with a quick credit card swipe - there's no need to specify an address, shipping options, email, etc.
 
+So instead of sending traffic to your store and hope people will buy (they won't, at least not enough) how you step up your game and take your shop to the next level?
+
 ## Funnels to the Rescue!
 
 The solution is to implement funnels for your store.
@@ -53,9 +55,9 @@ Think of funnels like dating: ideally, you'd like to get to know your partner we
 
 Of course buying something from an e-shop is not such a life-changing decision as a marriage (and therefore doesn't need that much convincing/thinking about), but the process is similar: the buyer wants to learn about the product, get to know the supplier and make sure he can deliver what he is promising. 
 
-A funnel is a set of dates with your prospect. Each date is consists of informing, educating, getting to know, communicating with, and ultimately, convincing the potential customer to take action (which is not always a sale - just as you won't ask anyone to marry you right on the first date). You lead the prospect through sales pages, educational videos, send him an e-mail, ask his opinion, take small steps in the right direction, and when you get to that point in your relationship - close a sale!
+A *funnel* is a _set of dates with your prospect_. Each date is consists of informing, educating, getting to know, communicating with, and ultimately, convincing the potential customer to take action (which is not always a sale - just as you won't ask anyone to marry you right on the first date). You lead the prospect through sales pages, educational videos, send him an e-mail, ask his opinion, take small steps in the right direction, and when you get to that point in your relationship - _close the sale_!
 
-In general, it's difficult to convince people to part with their money. Even once they decide to buy, their possibilities are practically endless. They need a good reason to buy from your store - rather than your competition, which might be cheaper, better or just convince them more efficiently.
+In general, it's difficult to convince people to part with their money. Even once they decide to buy, their possibilities are practically endless. They need a good reason to buy from you, rather than your competition - which might be cheaper, better or just convince them more efficiently.
 
 Funnels play a critical role in tipping the scales in your favor.
 
@@ -79,12 +81,12 @@ You might have heard that 'the money is in the list.' Building an email list is 
 
 Therefore I would advise to follow up your 'best seller' funnel building efforts with a list building funnel.
 
-The entry point of the list building funnel is a squeeze page. It serves a single purpose - to offer the visitor a lead magnet (something valuable - typically a guide, report, cheat sheet, training video - depending on your niche) in exchange for their email.
+The entry point of the list building funnel is a squeeze page. The squeeze page offers the visitor a lead magnet (something valuable - typically a guide, report, cheat sheet, training video - depending on your niche) in exchange for their email.
 
 The next step could be a page offering a tripwire. A tripwire is a cheap and irresistible offer, serving a single purpose: turn prospects into customers! Statistics show that people who bought you from the past are way more likely to buy from you again. 
 
-There are further possible steps in this funnel (one time offer, core offer, upsells, downsells and more). 
-
+There are further possible steps in this funnel (one time offer, core offer, upsells, downsells and other options).
+ 
 However, I'm sure that by now you get the idea: taking your user through a well-crafted funnel is very different than just sending all traffic to your front page or product page and expecting people to buy.
 
 ## Conclusion
