@@ -37,15 +37,15 @@ Opening an on-line store is super exciting! Unfortunately, your prospects do not
 
 Did I just say you shouldn't send potential buyers to your storefront or item page?! Indeed, I did - doing so is *one of the biggest blunders you can commit to your incoming traffic*  you bought with cold hard cash!
 
-Imagine that you just opened a brick and mortar shop and you are stand behind the counter. You notice a woman passes by and casually checks out your window display. She suddenly stops and starts to check out a coat. After half a minute, she enters the store.
+Imagine that you just opened a brick and mortar shop and you are standing behind the counter. You notice a woman passes by and casually checks out your window display. She suddenly stops and starts to check out a coat. After half a minute, she enters the store.
 
 Now, do you lead her to the coat, strongly suggesting her to buy it right away? I hope you don't!
   
-That is precisely the path most e-commerce store owners lead their prospect though, wondering why they are not making sales.
+That is precisely the path most e-commerce store owners lead their prospect through, wondering why they are not making sales.
 
 It's actually worse than that: a brick & mortar shopper can at least observe and touch the product. Ask questions right away. Can be persuaded to feel a more significant pressure to buy. If she decides to purchase, she can do so with a quick credit card swipe - there's no need to specify an address, shipping options, email, etc.
 
-So instead of sending traffic to your store and hope people will buy (they won't, at least not enough) how you step up your game and take your shop to the next level?
+So instead of sending traffic to your store and hope people will buy, how do you step up your game and take your shop to the next level?
 
 ## Funnels to the Rescue!
 
@@ -55,7 +55,9 @@ Think of funnels like dating: ideally, you'd like to get to know your partner we
 
 Of course buying something from an e-shop is not such a life-changing decision as a marriage (and therefore doesn't need that much convincing/thinking about), but the process is similar: the buyer wants to learn about the product, get to know the supplier and make sure he can deliver what he is promising. 
 
-A *funnel* is a _set of dates with your prospect_. Each date is consists of informing, educating, getting to know, communicating with, and ultimately, convincing the potential customer to take action (which is not always a sale - just as you won't ask anyone to marry you right on the first date). You lead the prospect through sales pages, educational videos, send him an e-mail, ask his opinion, take small steps in the right direction, and when you get to that point in your relationship - _close the sale_!
+A *funnel* is a _set of dates with your prospect_. Each date is consists of informing, educating, getting to know, communicating with, and ultimately, convincing the potential customer to take action (which is not always a sale - just as you won't ask anyone to marry you right on the first date). 
+
+You lead the prospect through sales pages, educational videos, send him an e-mail, ask his opinion, take small steps in the right direction, and when you get to that point in your relationship - _close the sale_!
 
 In general, it's difficult to convince people to part with their money. Even once they decide to buy, their possibilities are practically endless. They need a good reason to buy from you, rather than your competition - which might be cheaper, better or just convince them more efficiently.
 
@@ -67,9 +69,11 @@ Just as there's no textbook method of getting to know, dating, and finally marry
 
 There are funnels of all shapes and sizes with various end goals - it depends on your business which type you need the most right now (eventually you are going to need all of them).
 
-## The Simplest Funnel - the 'Best Seller.'
+## The Simplest Funnel - the 'Best Seller'
 
-Possibly the simplest funnel that's quick to implement and incites more people to buy is a dedicated landing page around your best selling product. If you don't have one, set it up right now - followed by a similar funnel for your second, third, etc. best-selling products.
+Possibly the simplest funnel that's quick to implement and incites more people to buy is a dedicated landing page around your best selling product. The only aim of this page is to make the visitor buy this product. As such, there are no links on this page (other than 'Buy this item' of course), no distraction, no extra info on aything else - just detailed information of your product, reviews, testimonials and a clear call to action - Buy!
+
+If you don't have best seller funnel in place, set it up right now - followed by a similar funnel for your second, third, etc. best-selling products.
 
 You can potentially add some upsells/downsells/order bumps - as I said, there is no strict recipe for any funnel.
 
@@ -85,7 +89,7 @@ The entry point of the list building funnel is a squeeze page. The squeeze page 
 
 The next step could be a page offering a tripwire. A tripwire is a cheap and irresistible offer, serving a single purpose: turn prospects into customers! Statistics show that people who bought you from the past are way more likely to buy from you again. 
 
-There are further possible steps in this funnel (one time offer, core offer, upsells, downsells and other options).
+There are further possible steps in this funnel (one time offer, core offer, upsells, downsells and other options). There are also other kinds of funnels, but since this is a quick intro, we'll look into those in the future.
  
 However, I'm sure that by now you get the idea: taking your user through a well-crafted funnel is very different than just sending all traffic to your front page or product page and expecting people to buy.
 
