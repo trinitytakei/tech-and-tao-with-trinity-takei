@@ -19,6 +19,7 @@ canonifyURLS = true
     highlightJS = true
     copyright = false
     credit = false
+    customCSS = true
 
 [[menu.main]]
     name = "Home"

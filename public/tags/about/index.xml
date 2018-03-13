@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meta on Writing, Hacking, Bootstrapping</title>
-    <link>https://www.trinitytakei.io/categories/meta/</link>
-    <description>Recent content in Meta on Writing, Hacking, Bootstrapping</description>
+    <title>About on Writing, Hacking, Bootstrapping</title>
+    <link>https://www.trinitytakei.io/tags/about/</link>
+    <description>Recent content in About on Writing, Hacking, Bootstrapping</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>false</copyright>
     
-	<atom:link href="https://www.trinitytakei.io/categories/meta/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.trinitytakei.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,6 +21,15 @@
 Houston, we Have a Problem Okay, time to admit it - my life is a hot mess!
 Not that I would have ever tried to conceal this fact if I knew it! (Well, a tiny voice tried to hint at it a few times, but I was too busy living the digital nomad dream to notice).
 How is it possible I led a fubar&amp;rsquo;d life for years and being oblivious to the fact (to top it off, calling it &amp;lsquo;living the dream&amp;rsquo;)?</description>
+    </item>
+    
+    <item>
+      <title>Make Rails Great Again</title>
+      <link>https://www.trinitytakei.io/blog/make_rails_great_again/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.trinitytakei.io/blog/make_rails_great_again/</guid>
+      <description>Fooo</description>
     </item>
     
   </channel>

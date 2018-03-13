@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.trinitytakei.io/tags/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.trinitytakei.io/tags/blogging/</loc>
     <priority>0</priority>
   </url>
@@ -18,7 +23,31 @@
   </url>
   
   <url>
-    <loc>https://www.trinitytakei.io/blog/hello/</loc>
+    <loc>https://www.trinitytakei.io/categories/dev/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/tags/e-commerce/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/tags/funnels/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/blog/a-new-beginning/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/tags/lifestyle/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/blog/make_rails_great_again/</loc>
   </url>
   
   <url>
@@ -27,7 +56,31 @@
   </url>
   
   <url>
-    <loc>https://www.trinitytakei.io/tags/setup/</loc>
+    <loc>https://www.trinitytakei.io/tags/rails/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/tags/sales/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/tags/sales-funnels/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/blog/sell_more_effectively_introduction_to_funnels_for_e_commerce/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/tags/shopify/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/categories/shopify/</loc>
     <priority>0</priority>
   </url>
   
