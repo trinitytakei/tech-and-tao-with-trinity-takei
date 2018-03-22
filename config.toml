@@ -1,10 +1,11 @@
-title   = "Writing, Hacking, Bootstrapping"
+title   = "Jascript | Rails | Vue | Ruby | Remote | Lifehacking"
 baseURL = "https://www.trinitytakei.io/"
-tags = ["tech", "blogging", "writing", "marketing", "lifehacking"]
+tags = ["tech", "blogging", "writing", "lifehacking", "ruby", "rails", "vue", "javascript"]
 languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
+disqusShortname = "tomanistor"
 
 [Params]
     author      = "Trinity Takei"
