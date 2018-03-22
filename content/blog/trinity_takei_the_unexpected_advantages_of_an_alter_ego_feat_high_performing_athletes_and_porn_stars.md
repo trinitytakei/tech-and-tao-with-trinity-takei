@@ -23,7 +23,7 @@ Well, let me give you three perfectly legal and practical reasons for having an 
 It would be cool to claim that I have planned this from the get go&mdash;except that I didn’t. It’s one of those spontaneous things that just worked out perfectly.
 
 ### A New Beginning 
-
+<br>
 
 I hit a paralyzing third-life crisis at 36. 
 
@@ -76,7 +76,7 @@ Trinity gets up at 3 AM seven days per week (true story, for yet another day), r
 _If you could choose, would you rather be in &ast;&ast;&ast;&ast;&ast;’s or Trinity’s shoes?_
 
 ### Proof of Concept
-
+<br>
 Let’s move on to the second point.
 
 Most successful people suck at telling their story from the humble beginnings. We only hear about the overnight success, the glamour, the six-, seven- and I-lost-count-figures, bespoke bean bags and artisan catering prepared by the in-house gourmet chef.
@@ -109,7 +109,7 @@ Trinity Takei will prove the sucker wrong.
 _If you could choose, would you rather be in &ast;&ast;&ast;&ast;&ast;’s or Trinity’s shoes?_
 
 ### Athletes do it. Porn Stars do it. | Let’s do it | Let’s fall in Love
-
+<br>
 
 Okay, that’s a somewhat lamesauce.com hijacking of the fantastic [Cole Porter original](https://www.youtube.com/watch?v=9cuArUG6sOc)&mdash;but at least we arrived at the titular porn star reference (it’s cool to admit it: you were looking for that since clicking on the link :-)!
 
