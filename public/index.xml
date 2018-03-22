@@ -6,17 +6,26 @@
     <description>Recent content on Writing, Hacking, Bootstrapping</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>false</copyright>
     
 	<atom:link href="https://www.trinitytakei.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>How A Decade of Digital Nomad Daydream Turned Into an Analog Nigthmare</title>
-      <link>https://www.trinitytakei.io/blog/a-new-beginning/</link>
+      <title></title>
+      <link>https://www.trinitytakei.io/archive/preventing_abandonware/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.trinitytakei.io/blog/a-new-beginning/</guid>
+      <guid>https://www.trinitytakei.io/archive/preventing_abandonware/</guid>
+      <description>Testing the make_rails_great_again generator:
+creating new Rails app (with current version of Rails et al - maybe scanning npm packages &amp;amp; commiting?) running the generator deploying to CircleCI or similar sending out email if fails</description>
+    </item>
+    
+    <item>
+      <title>How A Decade of Digital Nomad Daydream Turned Into an Analog Nigthmare</title>
+      <link>https://www.trinitytakei.io/archive/a-new-beginning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.trinitytakei.io/archive/a-new-beginning/</guid>
       <description>Las Palmas de Gran Canaria, October 13th, Friday, 2017
 Houston, we Have a Problem Okay, time to admit it - my life is a hot mess!
 Not that I would have ever tried to conceal this fact if I knew it! (Well, a tiny voice tried to hint at it a few times, but I was too busy living the digital nomad dream to notice).
@@ -25,19 +34,20 @@ How is it possible I led a fubar&amp;rsquo;d life for years and being oblivious 
     
     <item>
       <title>Make Rails Great Again</title>
-      <link>https://www.trinitytakei.io/blog/make_rails_great_again/</link>
+      <link>https://www.trinitytakei.io/archive/make_rails_great_again/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.trinitytakei.io/blog/make_rails_great_again/</guid>
-      <description>Fooo</description>
+      <guid>https://www.trinitytakei.io/archive/make_rails_great_again/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo aliquid consequatur, rerum aut maiores autem dicta cupiditate ab nemo et. Labore consequuntur, odio sapiente quam. Libero dignissimos, ab eos voluptatum.
+ links = [] for page in 1..total_pages info &#34;parsing page #{page} of #{total_pages}&#34; links  # config/application.rb config.generators do |g| g.test_framework false g.stylesheets false g.javascripts false g.helper false g.channel assets: false end   Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
       <title>Sell More Effectively: Introduction to Funnels for E-commerce</title>
-      <link>https://www.trinitytakei.io/blog/sell_more_effectively_introduction_to_funnels_for_e_commerce/</link>
+      <link>https://www.trinitytakei.io/archive/sell_more_effectively_introduction_to_funnels_for_e_commerce/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.trinitytakei.io/blog/sell_more_effectively_introduction_to_funnels_for_e_commerce/</guid>
+      <guid>https://www.trinitytakei.io/archive/sell_more_effectively_introduction_to_funnels_for_e_commerce/</guid>
       <description>All of us have been there at some point: we decided to set up our first on-line store.
 Picked and adjusted the theme carefully.
 Chose the perfect items to sell.
@@ -46,6 +56,32 @@ Asked friends and other store owners for feedback.
 When it was all said and done, cut the ribbon and &amp;hellip; crickets.
 Or rather, lots of lurkers, but no buyers.
 At first, we calmed ourselves.</description>
+    </item>
+    
+    <item>
+      <title>Sell More Effectively: Introduction to Funnels for E-commerce</title>
+      <link>https://www.trinitytakei.io/archive/sell_more_effectively_introduction_to_funnels_for_e_commerce_other/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.trinitytakei.io/archive/sell_more_effectively_introduction_to_funnels_for_e_commerce_other/</guid>
+      <description>All of us have been there at some point: we decided to set up our first on-line store.
+Picked and adjusted the theme carefully.
+Chose the perfect items to sell.
+Crafted ads to lead buyers to our site.
+Asked friends and other store owners for feedback.
+When it was all said and done, cut the ribbon and &amp;hellip; crickets.
+Or rather, lots of lurkers, but no buyers.
+At first, we calmed ourselves.</description>
+    </item>
+    
+    <item>
+      <title>Trinity Takei: The Unexpected Advantages of an Alter Ego (feat High Performing Athletes and Porn Stars)</title>
+      <link>https://www.trinitytakei.io/blog/trinity_takei_the_unexpected_advantages_of_an_alter_ego_feat_high_performing_athletes_and_porn_stars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.trinitytakei.io/blog/trinity_takei_the_unexpected_advantages_of_an_alter_ego_feat_high_performing_athletes_and_porn_stars/</guid>
+      <description>One of the first questions I’m asked online (by people who don’t know me personally) is: “…but your real name isn’t Trinity, right”?
+  The real Trinity (ie not me)   It’s annoying: there are infinite names that are not my real name (for example John Smith, Михаил Горбачёв, Thomas A. Anderson, まつもとゆきひろ, or Drago Lončar), yet I can hardly imagine anyone asking me “but your real name isn’t John [Михаил, Thomas, ゆきひろ, Drago], right?</description>
     </item>
     
   </channel>

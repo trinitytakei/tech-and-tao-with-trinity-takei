@@ -3,7 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.trinitytakei.io/archive/preventing_abandonware/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.trinitytakei.io/tags/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/categories/about-trinity-firstpost/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/tags/alter_ego/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/archive/</loc>
     <priority>0</priority>
   </url>
   
@@ -38,7 +57,7 @@
   </url>
   
   <url>
-    <loc>https://www.trinitytakei.io/blog/a-new-beginning/</loc>
+    <loc>https://www.trinitytakei.io/archive/a-new-beginning/</loc>
   </url>
   
   <url>
@@ -47,7 +66,7 @@
   </url>
   
   <url>
-    <loc>https://www.trinitytakei.io/blog/make_rails_great_again/</loc>
+    <loc>https://www.trinitytakei.io/archive/make_rails_great_again/</loc>
   </url>
   
   <url>
@@ -71,7 +90,11 @@
   </url>
   
   <url>
-    <loc>https://www.trinitytakei.io/blog/sell_more_effectively_introduction_to_funnels_for_e_commerce/</loc>
+    <loc>https://www.trinitytakei.io/archive/sell_more_effectively_introduction_to_funnels_for_e_commerce/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/archive/sell_more_effectively_introduction_to_funnels_for_e_commerce_other/</loc>
   </url>
   
   <url>
@@ -87,6 +110,15 @@
   <url>
     <loc>https://www.trinitytakei.io/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/tags/tao/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/blog/trinity_takei_the_unexpected_advantages_of_an_alter_ego_feat_high_performing_athletes_and_porn_stars/</loc>
   </url>
   
   <url>

@@ -6,7 +6,6 @@
     <description>Recent content in Tags on Writing, Hacking, Bootstrapping</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>false</copyright>
     
 	<atom:link href="https://www.trinitytakei.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,6 +16,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.trinitytakei.io/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alter_ego</title>
+      <link>https://www.trinitytakei.io/tags/alter_ego/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.trinitytakei.io/tags/alter_ego/</guid>
       <description></description>
     </item>
     
@@ -89,6 +97,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.trinitytakei.io/tags/shopify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tao</title>
+      <link>https://www.trinitytakei.io/tags/tao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.trinitytakei.io/tags/tao/</guid>
       <description></description>
     </item>
     
