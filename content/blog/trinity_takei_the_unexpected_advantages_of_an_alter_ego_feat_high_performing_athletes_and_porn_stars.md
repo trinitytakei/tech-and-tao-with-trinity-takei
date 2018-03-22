@@ -135,7 +135,7 @@ Ugh. I’m glad I never had to stop Bo, and I don’t envy those gentlemen who t
 
 Pornstars (or sex workers in general) have an alter ego for a very different reason. They are an object of hate and immense social stigma that stays with them forever, like an invisible modern-day scarlet letter.
 
-{{< figure src="/images/1/mask.jpg" title="">>}}
+{{< figure src="/images/1/mask.jpg" title="&nbsp;">}}
 
 An alter ego in their case is an almost automatic defense mechanism. It doesn’t solve the issue, but the massive hate directed at their stage name, the persona the public thinks they are (based on their perception of a sex worker) still somewhat protects the real person. 
 
