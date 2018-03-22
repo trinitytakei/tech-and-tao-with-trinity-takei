@@ -24,6 +24,7 @@ It would be cool to claim that I have planned this from the get go&mdash;except 
 
 ### A New Beginning 
 
+
 I hit a paralyzing third-life crisis at 36. 
 
 It’s like a car accident: you never see it coming, and you think it only happens to everyone else but you-until you find yourself in one. Then you realize that it 1) indeed might happen to you&mdash;in fact, it just did, and that 2) it fucking sucks.
@@ -96,11 +97,11 @@ Then there’s Trinity: zero contacts, money (I know from reliable sources that 
 
 True, Trinity does have skills, but 
 
-* Instead of touting ‘Hey, hire me, I’m a senior software engineer’ (as ), he committed himself to a rigorous schedule of deliberate learning (coding, self-publishing, blogging, marketing, entrepreneurship), and showing off his skills (coming soon!)
+* Instead of touting ‘Hey, hire me, I’m a senior software engineer’ (as a lot of people with 15 years of steady coding in half a dozen languages under they belt would claim), he committed himself to a rigorous schedule of deliberate learning (coding, self-publishing, blogging, marketing, entrepreneurship), and showing off his skills (coming soon!)
 * Learning is readily and immediately available in today’s age, virtually for free (unlike having money, personal network, or powerful allies). Thus, not having skills can’t possibly be a valid excuse anymore, as long as you have enough time at your disposal. Here’s the ugly truth: you _always_ do&mdash;you just sometimes don’t want it badly enough.
 
 Trinity will suck at telling his story in retrospect as much as everyone else&mdash;therefore he’s starting now, when there’s very little to say, and will keep on documenting the journey as much as possible.
- 
+
 It’s also a proof for &ast;&ast;&ast;&ast;&ast;. Sometimes &ast;&ast;&ast;&ast;&ast; feels like he just got lucky in 2009, and he can’t replicate the earlier success&mdash;the market got more saturated, everything is more difficult, competition is more fierce than ever, prices are skyrocketing, while he got older and the deck is stacked against him.
 
 Trinity Takei will prove the sucker wrong.
@@ -108,6 +109,7 @@ Trinity Takei will prove the sucker wrong.
 _If you could choose, would you rather be in &ast;&ast;&ast;&ast;&ast;’s or Trinity’s shoes?_
 
 ### Athletes do it. Porn Stars do it. | Let’s do it | Let’s fall in Love
+
 
 Okay, that’s a somewhat lamesauce.com hijacking of the fantastic [Cole Porter original](https://www.youtube.com/watch?v=9cuArUG6sOc)&mdash;but at least we arrived at the titular porn star reference (it’s cool to admit it: you were looking for that since clicking on the link :-)!
 
@@ -125,7 +127,7 @@ Obviously, this poses more than a mild problem if you want to play on the NFL le
 
 So he invented an alter ego based on Jason Voorhees’ character from the “Friday the 13th” series. 
 
-{{< figure src="/images/1/jason.jpg" title="What a symphatic dude #not">}}
+{{< figure src="/images/1/jason.jpg" title="What a symphatetic dude #not">}}
 
 Bo didn't want to act like Jason in real life (how laudable!), but the moment the ball of his foot would strike the turf, he imagined a blue shock entering his body, turning him into a ferocious, relentless beast. In his own words, _“his only mission was to destroy anything that got in his way.”_
 
@@ -133,7 +135,7 @@ Ugh. I’m glad I never had to stop Bo, and I don’t envy those gentlemen who t
 
 Pornstars (or sex workers in general) have an alter ego for a very different reason. They are an object of hate and immense social stigma that stays with them forever, like an invisible modern-day scarlet letter.
 
-{{< figure src="/images/1/mask.jpg">}}
+{{< figure src="/images/1/mask.jpg" title="">>}}
 
 An alter ego in their case is an almost automatic defense mechanism. It doesn’t solve the issue, but the massive hate directed at their stage name, the persona the public thinks they are (based on their perception of a sex worker) still somewhat protects the real person. 
 
