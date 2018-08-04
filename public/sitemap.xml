@@ -47,6 +47,16 @@
   </url>
   
   <url>
+    <loc>https://www.trinitytakei.io/categories/digital-nomad-quora/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/tags/digital_nomad/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.trinitytakei.io/tags/e-commerce/</loc>
     <priority>0</priority>
   </url>
@@ -80,6 +90,11 @@
   </url>
   
   <url>
+    <loc>https://www.trinitytakei.io/tags/quora/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.trinitytakei.io/tags/rails/</loc>
     <priority>0</priority>
   </url>
@@ -103,12 +118,12 @@
   </url>
   
   <url>
-    <loc>https://www.trinitytakei.io/categories/shopify/</loc>
+    <loc>https://www.trinitytakei.io/tags/shopify/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.trinitytakei.io/tags/shopify/</loc>
+    <loc>https://www.trinitytakei.io/categories/shopify/</loc>
     <priority>0</priority>
   </url>
   
@@ -124,6 +139,10 @@
   
   <url>
     <loc>https://www.trinitytakei.io/blog/trinity_takei_the_unexpected_advantages_of_an_alter_ego_feat_high_performing_athletes_and_porn_stars/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/blog/what-wont-most-digital-nomads-tell-you/</loc>
   </url>
   
 </urlset>

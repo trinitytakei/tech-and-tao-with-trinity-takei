@@ -6,7 +6,7 @@ Tags = ["digital_nomad","tao","quora"]
 title = "What Won't Most Digital Nomads Tell You?"
 +++
 
-t’s virtually impossible (or at least damn hard) to get an objective answer to this question. There are various cognitive biases in play,  which are as varied as digital nomads themselves.
+It’s virtually impossible (or at least damn hard) to get an objective answer to this question. There are various cognitive biases in play,  which are as varied as digital nomads themselves.
 
 {{< figure src="/images/2/nomad_planning.jpg" title="Photo by rawpixel on Unsplash" >}}
 
@@ -26,14 +26,14 @@ In the past decade, I have traveled extensively as a digital nomad/expat and met
 
 {{< figure src="/images/2/railroad.jpg" title="Photo by Dan Gribbin on Unsplash" >}}
 
-And, if this weren’t enough, people are in constant state of flux; for example, I have seen DNs progress like (there might be more, or less, and definitely different states as well):
+And, if this weren’t enough, people are in constant state of flux; for example, I have seen DNs progress like this (there might be more, or less, and definitely different states as well):
 
-1. Dream: wooow digital nomads are the new rich, just look at MegaSuccessfulDNatBali’s Instagram, she’s totally crushing it! [heavy breathing, uncontrollable drooling]
-2. Euphoria: I’m a digital nomad now, this is the best thing that ever happened to me! Poor cubicle dwellers, they have no idea how cool it is to work by the rooftop pool! And that jungle trek! And the food, and the ocean and...
-3. Cooldown: Being a digital nomad is cool, only if there wouldn’t be so much shit attached to it... client1  forgot to pay, and I have a flight to catch, but I need to quickly finish something for client2 first and check out from my Airbnb ASAP - but hey, it’s all part of being a DN, isn’t it? 
-4. Frustration: Okay this is getting frustrating... I wish I could go surfing with those cool dudes I got to know yesterday, but I’m running out of money and need to rock this gig. Probably tomorrow - argh, no,  I have to do my accounting and also pick up my laptop from the service, and I’m running out of groceries, and...
-5. Desperation: Fuck. this. shit. How easy it is for Joe - he just shows up at 9am, probably works an hour or two (the rest is spent on meetings, water cooler chat, endless email checking, planning, lunch, email, more chat, trying to look busy, etc.), leaves at 5pm _and doesn’t give a flying f**k about anything work-related past that point_. (not to mention bookkeeping, chasing new clients, marketing himself, loneliness, boredom, working on weekends, ...)
-6. Resignation: Okay, time to admit it: I’m in over my head. There’s no Instagram for ‘digital nomad difficulties’ so how could I have known? Where do I go from here? [evil grin of schadenfreude as a few newly minted digital nomads enter the cafe, oozing with optimism and full of high hopes. Ha! They are in for a rough ride!]
+1. **Dream**: Digital nomads are the new rich, just look at MegaSuccessfulDNatBali’s Instagram, she’s totally crushing it! [heavy breathing, uncontrollable drooling]
+2. **Euphoria**: I’m a digital nomad now, this is the best thing that ever happened to me! Poor cubicle dwellers, they have no idea how cool it is to work by the rooftop pool! And that jungle trek! And the food, and the ocean and...
+3. **Cooldown**: Being a digital nomad is cool, only if there wouldn’t be so much shit attached to it... client1  forgot to pay, and I have a flight to catch, but I need to quickly finish something for client2 first and check out from my Airbnb ASAP - but hey, it’s all part of being a DN, isn’t it? 
+4. **Frustration**: Okay this is getting frustrating... I wish I could go surfing with those cool dudes I got to know yesterday, but I’m running out of money and need to rock this gig. Probably tomorrow - argh, no,  I have to do my accounting and also pick up my laptop from the service, and I’m running out of groceries, and...
+5. **Desperation**: Fuck. This. Shit. How easy it is for Joe - he just shows up at 9am, probably works an hour or two (the rest is spent on meetings, water cooler chat, endless email checking, planning, lunch, email, more chat, trying to look busy, etc.), leaves at 5pm _and doesn’t give a flying f**k about anything work-related past that point_. (not to mention bookkeeping, chasing new clients, marketing himself, loneliness, boredom, working on weekends, ...)
+6. **Resignation**: Okay, time to admit it: I’m in over my head. There’s no Instagram for ‘digital nomad difficulties’ so how could I have known? Where do I go from here? [evil grin of schadenfreude as a few newly minted digital nomads enter the cafe, oozing with optimism and full of high hopes. Ha! They are in for a rough ride!]
 
 {{< figure src="/images/2/crossroads.jpg" title="Where do I go from here?!" >}}
 
@@ -51,7 +51,7 @@ Every journey is different. I would have given (and still giving) a skewed answe
 * After a few years of riding rollercoasters of all shapes and sizes all over the place, and thinking I have seen it all, I would have probably answered like a know-it-all, condescending asshole. Thankfully, I have been too busy for that, as staying afloat took all my energy (no, the life of a digital nomad isn't exclusively about rooftop pools, sunsets and jungle treks).
 * Right now, after well over  a decade in the trenches, watching two daughters grow up on the road, going through thick and thin, meeting people from all walks of life, experiencing all sorts of shit - I’m cautious with my words (especially criticism of others), to the point of sounding too philosophical/impractical, I guess.
 
-Sure, the digital nomad life comes with a load of challenges, but so does any other kind of life - whether you are a poverty-stricken kid in Ethiopia scavenging for food, a frustrated office worker in a dead-end 9-5 job dreaming about becoming a digital nomad, or a Russian oligarch trying to avoid assassination on a daily basis.
+Sure, the digital nomad life comes with a load of challenges, but so does any other kind of life: whether you are a poverty-stricken kid in Ethiopia scavenging for food, a frustrated office worker in a dead-end 9-5 job dreaming about becoming a digital nomad, or a Russian oligarch trying to avoid assassination on a daily basis.
 
 ‘But Trinity, the Ethiopian kid doesn’t claim his/her life is glamorous, posts by overjoying 9-5 guys are not popping up in my IG feed either, and I don’t recall anything by Russian oligarchs...’
 
