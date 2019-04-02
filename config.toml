@@ -5,7 +5,7 @@ languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
-disqusShortname = "tomanistor"
+disqusShortname = "trinitytakei"
 
 [Params]
     author      = "Trinity Takei"

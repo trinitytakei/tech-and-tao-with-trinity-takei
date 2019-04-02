@@ -73,6 +73,6 @@ There are also plenty of nomads who project the perfect picture 24/7, even when 
 
 In general, though, digital nomads are just people like you and me. They aren’t trying to ‘not tell us’  things any more than our run-of-the-(non-digital)-mill hero, Joe.
 
-Unfortunately, DN snake oil salesmen, tricksters and [Everything is Awesome!](https://www.youtube.com/watch?v=StTqXEQ2l-Y) people are the most adept at rapid-fire posting mind-numbing amount of coolness. Try to ignore them: good wine needs no bush, as they say.
+Unfortunately, DN snake oil salesmen, tricksters and [Everything is Awesome!!!](https://www.youtube.com/watch?v=StTqXEQ2l-Y) people are the most adept at rapid-fire posting mind-numbing amount of coolness. Try to ignore them: good wine needs no bush, as they say.
 
 
