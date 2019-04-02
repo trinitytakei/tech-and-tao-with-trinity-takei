@@ -62,29 +62,29 @@ And then there are the non-strictly-coding tasks: meetings (that I find difficul
 
 Let me share a real-life example: I noticed that one of my more senior devs was routinely deflecting praise like a pro - all the time, without fail. I sent him this email [unredacted, except the real name]:
 
-> Hey Joe,
+_Hey Joe,_
 
-> I came across this article today and it made me think about you instantly:
->
-> https://anaulin.org/blog/self-deprecation-bad-habit/
+_I came across this article today and it made me think about you instantly:_
 
-> I've been with the team for less than 2 months, but I can already see that you are doing it all the time:
->
-> 'Yo Joe, great work' -> you: ah, it's nothing
->
-> 'Hey Joe really thanks for all the bugfixes' -> you: no, it was not a big thing, and the whole team worked on it, and it was easy and quick and …
->
-> I have to call BS! You are doing fantastic work [and it's not easy, quick, etc.], right now you are the fucking Messi of the team - you practically banged out 80% of the work for the last two sprints.
->
-> This is a fact [please do not reply with 'No, that's not true, because … ' :-D]
->
-> I'm in the same shoes btw. - I'm fighting impostor syndrome all the time, I feel really awkward when people give me praise, and I wish they would just shut up and leave me alone :-) I have been way worse, but I'm forcing myself to get better, and just say 'Thank you' if nothing else, and move on. It feels weird, but gets better over time if you start practicing it.
->
->I liked this section:
->
->"As I've grown into leadership roles, I've also come to see the negative effects of my self-deprecating speech on my teams. If your manager or lead keeps trying to make herself small, what does that mean for you? If she really doesn't believe that she is that good, you're really a long way off from mastery yourself, aren't you?"
->
->You are eventually going to grow into a leadership role (and by seniority, you are already in a leadership role right now) and your team needs to hear that you are doing great work - so don't make yourself small (there are enough envious and malicious people who are ready to do that for you 24/7).
+_https://anaulin.org/blog/self-deprecation-bad-habit/_
+
+_I've been with the team for less than 2 months, but I can already see that you are doing it all the time:_
+
+'Yo Joe, great work' -> you: ah, it's nothing
+
+'Hey Joe really thanks for all the bugfixes' -> you: no, it was not a big thing, and the whole team worked on it, and it was easy and quick and …
+
+_I have to call BS! You are doing fantastic work [and it's not easy, quick, etc.], right now you are the fucking Messi of the team - you practically banged out 80% of the work for the last two sprints._
+
+_This is a fact [please do not reply with 'No, that's not true, because … ' :-D]_
+
+_I'm in the same shoes btw. - I'm fighting impostor syndrome all the time, I feel really awkward when people give me praise, and I wish they would just shut up and leave me alone :-) I have been way worse, but I'm forcing myself to get better, and just say 'Thank you' if nothing else, and move on. It feels weird, but gets better over time if you start practicing it._
+
+_I liked this section:_
+
+**_"As I've grown into leadership roles, I've also come to see the negative effects of my self-deprecating speech on my teams. If your manager or lead keeps trying to make herself small, what does that mean for you? If she really doesn't believe that she is that good, you're really a long way off from mastery yourself, aren't you?"_**
+
+_You are eventually going to grow into a leadership role (and by seniority, you are already in a leadership role right now) and your team needs to hear that you are doing great work - so don't make yourself small (there are enough envious and malicious people who are ready to do that for you 24/7)._
 
 Joe expressed his gratitude in a reply email and indeed, I didn't notice him deflecting praise ever since, at least not in my presence.
 
