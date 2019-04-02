@@ -30,7 +30,7 @@ If I'm coding (fishing myself), I'm sure creating some value, but the real magic
 
 ### Code Reviews :  the Best Opportunity for Teaching
 
-Probably my biggest superpower as a team leader is mentoring developers. There's more than one way to skin this cat (and then some), but I'm finding a good code review session the most effective of all. It's organic: rather than explaining an abstract concept or unrelated code snippet I find interesting, we are discussing code he or she wrote (and thus, knows intimately and understands thoroughly), so the developer has (cat)skin in the game.
+Probably my biggest superpower as a team leader is mentoring developers. There's more than one way to skin this cat (and then some), but I'm finding a good code review session the most effective of all. It's _organic_: rather than explaining an abstract concept or unrelated code snippet **I** find interesting, we are discussing code **he** or **she** wrote (and thus, knows intimately and understands thoroughly), so the developer has (cat)skin in the game.
 
 A word of warning- this goes both ways: bungle a code review (ignoring the pleas for the review because you have 'more important stuff to work on' (what?!), doing a half-baked job or even scolding the committer for errors (worst idea ever)) and you'll deal more damage than you could with any other form of teaching. 
 
@@ -71,9 +71,12 @@ Let me share a real-life example: I noticed that one of my more senior devs was 
 > I've been with the team for less than 2 months, but I can already see that you are doing it all the time:
 >
 > 'Yo Joe, great work' -> you: ah, it's nothing
+>
 > 'Hey Joe really thanks for all the bugfixes' -> you: no, it was not a big thing, and the whole team worked on it, and it was easy and quick and …
 >
-> I have to call BS! You are doing fantastic work [and it's not easy, quick, etc.], right now you are the fucking Messi of the team - you practically banged out 80% of the work for the last two sprints. This is a fact [please do not reply with 'No, that's not true, because … ' :-D]
+> I have to call BS! You are doing fantastic work [and it's not easy, quick, etc.], right now you are the fucking Messi of the team - you practically banged out 80% of the work for the last two sprints.
+>
+> This is a fact [please do not reply with 'No, that's not true, because … ' :-D]
 >
 > I'm in the same shoes btw. - I'm fighting impostor syndrome all the time, I feel really awkward when people give me praise, and I wish they would just shut up and leave me alone :-) I have been way worse, but I'm forcing myself to get better, and just say 'Thank you' if nothing else, and move on. It feels weird, but gets better over time if you start practicing it.
 >
