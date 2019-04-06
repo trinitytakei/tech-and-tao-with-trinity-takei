@@ -56,7 +56,7 @@ Identifying and training them is THE most important task you have as a team lead
 
 Even when a team member's sole task is writing code day in, day out (i.e., a typical junior to mid-level dev role), a good chunk of 'writing code' is spent on everything but writing code.
 
-Most of the time is spent on honing the ancient art of yak shaving: communication, understanding of tasks, fumbling with git, configuring your system, updating unrelated software, mending rejected pull requests, hardware failures, documentation, wifi issues, asking questions, answering questions-the list is endless.
+Most of the time is spent on honing the ancient art of [yak shaving](https://www.quora.com/What-is-the-saddest-part-of-being-a-programmer/answer/Trinity-Takei): communication, understanding of tasks, fumbling with git, configuring your system, updating unrelated software, mending rejected pull requests, hardware failures, documentation, wifi issues, asking questions, answering questions-the list is endless.
 
 And then there are the non-strictly-coding tasks: meetings (that I find difficult to survive more often than not, and I'm assuming this is true for most devs), writing emails, explaining stuff, asking for raises, leveling up, office politics-another endless list.
 
@@ -96,9 +96,9 @@ This one is coming from [Jocko Willink](http://jockopodcast.com/). The leader is
 
 After all,
 
-* _I_ gathered all the info I could (woe on me if I didn't - maybe I didn't listen carefully, see the previous point, 'Always Listen')
-* _I_ weighed the options diligently from the information I possessed at the time
-* _I_ made the decision (if that's not the case, and I just delegated decision making to someone else by acting on their suggestion, then I failed then and there already, regardless of the outcome).
+* **I** gathered all the info I could (woe on me if I didn't - maybe I didn't listen carefully, see section 'Always Listen')
+* **I** weighed the options diligently from the information I possessed at the time
+* **I** made the decision (if that's not the case, and I just delegated decision making to someone else by acting on their suggestion, then I failed then and there already, regardless of the outcome).
 
 {{< figure src="/images/3/ownit.gif" title="Image Credit: https://dilbert.com/strip/2012-05-31" >}}
 
