@@ -41,6 +41,20 @@
   </url>
   
   <url>
+    <loc>https://www.trinitytakei.io/categories/book-review-blogging/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/blog/book_review_256_bloghacks_by_yegor_bugayenko/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/tags/bookreviews/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.trinitytakei.io/categories/</loc>
     <priority>0</priority>
   </url>
