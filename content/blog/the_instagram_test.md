@@ -28,12 +28,19 @@ Did I enjoy it? Not at all!
 
 I was too busy making sure it *looks like* I'm having the time of my life, and didn't have a chance to enjoy myself!
 
-* It spent an hour waltzing around, hoping to snap a picture free of other selfie-stick-toting, Instagram-test-failing tourists
-* I failed. Obviously. There is a famous Chuck Norris joke: “Chuck Norris took a selfie in the Marina Bay Sands rooftop pool. Alone.” My name is not Chuck Norris, so go figure.
-* I gave up and spent another hour in Photoshop to remove the excess
-* The weather (and water) was cold - it was raining all the time.
-* The whole experience felt WEIRD. I stood out like a sore thumb in my 100 Baht t-shirt and fake Diesel flip-flops I bought at Chatuchak weekend market in Bangkok next to the business(wo)men whose shoelace cost more than my entire 'apparel.'
-* To be honest, I couldn't afford the price - munching on store-bought biscuits while watching the people eating in restaurants by Wolfgang Puck or David Myers and thinking 'What a bunch of hypocrites. Sitting there in their thousand dollar suits, stiff as a poker, obviously having no idea how to enjoy themselves. Pfft, pathetic’.
+Why?
+
+The rooftop pool of the Marine Bay Sands is one of the most infamous selfie spots in the world. It easily puts a Chinese beach on the best day of the year to shame.
+
+So I spent an hour waltzing around, hoping to snap a picture free of other selfie-stick-toting, Instagram-test-failing tourists. (I failed. Obviously. There is a famous Chuck Norris joke: “Chuck Norris took a selfie in the Marina Bay Sands rooftop pool. Alone.” My name is not Chuck Norris, so go figure.)
+
+I gave up and spent another hour in Photoshop to remove the extra legs, hads and selfie sticks fro the picture.
+
+The weather (and water) was cold - it was raining all the time on that day.
+
+The whole experience felt WEIRD. I stood out like a sore thumb in my 100 Baht t-shirt and fake Diesel flip-flops I bought at Chatuchak weekend market in Bangkok next to the business(wo)men whose shoelace cost more than my entire 'apparel.'
+
+To be honest, I couldn't afford the price - munching on store-bought biscuits while watching the people eating in restaurants by Wolfgang Puck or David Myers and thinking 'What a bunch of hypocrites. Sitting there in their thousand dollar suits, stiff as a poker, obviously having no idea how to enjoy themselves. Pfft, pathetic’.
 
 {{< figure src="/images/5/puck.jpg" title="Source: https://thepeakmagazine.com.sg" >}}
 
