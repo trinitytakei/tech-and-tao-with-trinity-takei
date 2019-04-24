@@ -1,8 +1,8 @@
 +++
 baseURL = "https://www.trinitytakei.io"
 Categories = ["Digital Nomad", "Travel", "Rants"]
-Description = "How not to digital nomad: there are important things in life. Taking selfies to show off is not amoing them"
-Tags = ["Digitalnomad","Travel","Luxury"]
+Description = "How (not) to digital nomad: A simple method to help you decide where (not) to travel next"
+Tags = ["Digitalnomad","Travel","Rant"]
 title = "The Instagram Test"
 +++
 
