@@ -53,7 +53,7 @@ No, it’s not. Unless you want to be fake and willing to sacrifice life’s gre
 
 I’m not saying you should smash your phone right now and buy a Nokia 3330 to resist the temptation of taking selfies in the future.
 
-Your Pictures and videos capture precious but ephemeral moments, of places you perhaps won’t ever visit and adventures you might never re-live again.
+Your pictures and videos capture precious but ephemeral moments: places you perhaps won’t ever visit and adventures you might never re-live again.
 
 Going on a diatribe against selfie culture, then saying photos are great after all might sound contradictory, but:
 
