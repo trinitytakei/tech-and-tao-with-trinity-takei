@@ -3,6 +3,7 @@ baseURL = "https://www.trinitytakei.io"
 Categories = ["Digital Nomad", "Travel", "Rants"]
 Description = "How (not) to digital nomad: A simple method to help you decide where (not) to travel next"
 Tags = ["Digitalnomad","Travel","Rant"]
+twImage=  "https://www.trinitytakei.io/images/5/mbs_evening.jpg"
 title = "The Instagram Test"
 +++
 
