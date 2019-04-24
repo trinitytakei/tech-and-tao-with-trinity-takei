@@ -34,7 +34,7 @@ The rooftop pool of the Marine Bay Sands is one of the most infamous selfie spot
 
 So I spent an hour waltzing around, hoping to snap a picture free of other selfie-stick-toting, Instagram-test-failing tourists. (I failed. Obviously. There is a famous Chuck Norris joke: “Chuck Norris took a selfie in the Marina Bay Sands rooftop pool. Alone.” My name is not Chuck Norris, so go figure.)
 
-I gave up and spent another hour in Photoshop to remove the extra legs, hads and selfie sticks fro the picture.
+I gave up and spent another hour in Photoshop to remove the extra legs, hads and selfie sticks from the picture.
 
 The weather (and water) was cold - it was raining all the time on that day.
 
