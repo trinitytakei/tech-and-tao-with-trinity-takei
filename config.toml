@@ -1,4 +1,4 @@
-title   = "Jascript | Rails | Vue | Ruby | Remote | Lifehacking"
+title   = "Bootstrapping | Remote Work | Writing | Lifehacking | Jascript | Rails | Vue | Ruby"
 baseURL = "https://www.trinitytakei.io/"
 tags = ["tech", "blogging", "writing", "lifehacking", "ruby", "rails", "vue", "javascript"]
 languageCode = "en-US"
@@ -9,13 +9,13 @@ disqusShortname = "trinitytakei"
 
 [Params]
     author      = "Trinity Takei"
-    description = "Musings on Life, Remote Work, Technology, Entrepreneurship, Startups and more"
+    description = "Musings on Life, Remote Work, Technology, Entrepreneurship, Bootstrapping"
     logoBig = "/images/tttt-main-logo.png"
     logoSmall = "/images/tttt-small-logo.png"
     favicon = "favicon.ico"
     opengraphImage = "tttt-main-logo.png"
     twitter = "TrinityTakei"
-    #github = "TrinityTakei"
+    github = "TrinityTakei"
     email = "trinity.takei@gmail.com"
     highlightJS = true
     copyright = false
