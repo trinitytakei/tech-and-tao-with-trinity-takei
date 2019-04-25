@@ -57,13 +57,13 @@ Your pictures and videos capture precious but ephemeral moments: places you perh
 
 Going on a diatribe against selfie culture, then saying photos are great after all might sound contradictory, but:
 
-There is a fundamental difference between personal and perfectly manicured #I-am-oh-so-cool Instagram photos, though. Broadcasting a highlight reel of your life to strangers on the Internet comes at a high cost. It robs you of moments you should cherish and absorb because you are too busy to find the perfect angle or Instagram filter.
+There is a fundamental difference between personal and perfectly manicured #I-am-oh-so-cool Instagram photos. Broadcasting a highlight reel of your life to strangers on the Internet comes at a high cost. It robs you of moments you should cherish and absorb because you are too busy to find the perfect angle or Instagram filter.
 
 Nothing in life is black or white, though. Some places and experiences are both instagrammable and rewarding.
 
 For example, visiting the Angkor Wat or Borobudur were on my bucket list since forever. Therefore, they passed the Instagram Test. AND I made some of the best photos there. But that was a bonus and side effect, rather than the goal.
 
-However, the Statue of Liberty, Top of the Rock, or Brooklyn Bridge failed the Instagram Test for me. I don't regret for a second that I didn't visit it.
+However, the Statue of Liberty, Top of the Rock, or Brooklyn Bridge failed the Instagram Test for me. I don't regret for a second that I didn't visit them (sorry, New Yorkers! NYC has a special place in my ❤!)
 
 Going for a run in the Central Park, soaking in the vibe of the city, watching Helen Mirren perform live on Broadway or eating the best pancakes of the world in a tucked away local joint didn't provide any Instagram opportunities but were a more authentic experience for me. (bonus: bumping into Melissa McCarthy by chance when going for a movie).
 
