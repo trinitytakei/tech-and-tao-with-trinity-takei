@@ -112,7 +112,9 @@ Worrying about money can really kill your productivity and mood, and it's an awf
 Let me debunk some common myths and cliches:
 
 __'But money is not everything'__ - Correct! But if you are not sure how you will pay your next bills, or buy food, or the lack of it might force you to give up your lifestyle, then it will mean everything to you in that moment.
+
 __'The love of money is the root of all evil'__ - the emphasis is on the _love_ part. Don't _love_ money - it's just a tool that enables you to put food on the table. Having enough of it to be comfortable is a different matter entirely.
+
 __'Fuck money, I'm following my passion'__ - to the extent that you are OK living under the bridge and beg for food? OK, in that case this section is not for you I guess.
 
 ### When 40 !== 40
