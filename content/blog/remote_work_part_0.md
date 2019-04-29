@@ -28,7 +28,7 @@ Here are a few things I wish someone told me before I got started with remote wo
 
 Coding in the infinity pool on a tropical island, gentle breeze, bottomless mojitos, traveling all the time - there is no shortage of digital nomad cliches on social media.
 
-I've been working remotely for well over a decade, and I could flood Instagram with some [https://www.trinitytakei.io/blog/the_instagram_test/](cool images I snapped during the years myself).
+I've been working remotely for well over a decade, and I could flood Instagram with some [cool images I snapped during the years myself](https://www.trinitytakei.io/blog/the_instagram_test/).
 
 However, working remotely can be difficult every now and then. Loneliness, impostor syndrome, stress, lack of motivation, 'wtf I am doing’ days, chasing clients, feast or famine, or burnout are all too real.
 
