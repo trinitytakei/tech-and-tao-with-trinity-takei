@@ -30,7 +30,7 @@ Coding in the infinity pool on a tropical island, gentle breeze, bottomless moji
 
 I've been working remotely for well over a decade, and I could flood Instagram with some cool images I snapped during the years.
 
-However, working remotely can be difficult every now and then. Loneliness, impostor syndrome, stress, lack of motivation, 'wtf I am doing’ days, chasing clients, feast or famine,or burnout are all too real.
+However, working remotely can be difficult every now and then. Loneliness, impostor syndrome, stress, lack of motivation, 'wtf I am doing’ days, chasing clients, feast or famine, or burnout are all too real.
 
 It’s better to be skeptical and being pleasantly surprised than the other way around.
 
@@ -107,13 +107,19 @@ Sounds trivial, yet I see so many people crash and burn for this reason: money.
 
 Have enough money stoved away that makes you comfortable if you run out of jobs - for some people this could be few months of living expenses, for others might need to have enough for two years to feel warm and fuzzy.
 
-Worrying about money can really kill your productivity and mood.
+Worrying about money can really kill your productivity and mood, and it's an awful place to be in (it made me do some crazy decisions in the past, and I have observed similar behavior for other people.)
+
+Let me debunk some common myths and cliches:
+
+__'But money is not everything'__ - Correct! But if you are not sure how you will pay your next bills, or buy food, or the lack of it might force you to give up your lifestyle, then it will mean everything to you in that moment.
+__'The love of money is the root of all evil'__ - the emphasis is on the _love_ part. Don't _love_ money - it's just a tool that enables you to put food on the table. Having enough of it to be comfortable is a different matter entirely.
+__'Fuck money, I'm following my passion'__ - to the extent that you are OK living under the bridge and beg for food? OK, in that case this section is not for you I guess.
 
 ### When 40 !== 40
 
 40 hours in the office !== 40 hours working for yourself.
 
-The first scenario has tons of fuck-around time included (coffee, breakfast, water cooler chat, lunch, idiotic meetings, plain old procrastination), paperwork is taken care of, sick time and paid vacations are a thing. As long as you show up, you get the same amount of salary.
+The first scenario has tons of fuck-around time thrown in as an unofficial (?) perk (coffee, breakfast, water cooler chat, lunch, idiotic meetings, plain old procrastination), paperwork is taken care of, sick time and paid vacations are a thing. As long as you show up, you get the same amount of salary.
 
 This is very different if you are a freelancer: you can’t bill for having lunch or filling out paperwork - things that are perfectly normal and accepted in the office.
 
