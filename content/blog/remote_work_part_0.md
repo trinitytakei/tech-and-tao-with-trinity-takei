@@ -107,7 +107,7 @@ Sounds trivial, yet I see so many people crash and burn for this reason: money.
 
 Have enough money stoved away that makes you comfortable if you run out of jobs - for some people this could be few months of living expenses, for others might need to have enough for two years to feel warm and fuzzy.
 
-Worrying about money can really kill your productivity and mood, and it's an awful place to be in (it made me do some crazy decisions in the past, and I have observed similar behavior for other people.)
+Worrying about money can really kill your productivity and mood, and it's an awful place to be in (it forced me to make some crazy decisions in the past, and I have observed similar behavior for other people.)
 
 Let me debunk some common myths and cliches:
 
@@ -147,6 +147,13 @@ However, if you are a freelancer, you need to be well-versed in so much more - c
 
 Most programmers are not 'naturals' when it comes to soft skills - something to keep in mind.
 
-There are so many more, but this should be enoug to get you started.
+### Conclusion
+
+There are so many more things I could talk about (let me know what would you like to hear), but this should be enoug to get you started.
+
+TL;DR: Remote work is work with different rules. The upsides might outweigh the downsides (like they did in my case), but I saw a lot of people getting fed up and burn out after buying the hype and realizing the reality is very different from the social media version.
+
+Make sure you know what are you buying into, and working remotely/becoming a digital nomad can be one of the most rewarding things you will ever do (like in my case). Ignore the
+warnings like this blog entry, jump the bandwagon or FOMO your way into this world and you might be in for some nasty surprises.
 
 Let me know your pet peeves, tips, and experience in the comment section below!
