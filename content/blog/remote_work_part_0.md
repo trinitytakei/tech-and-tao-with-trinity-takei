@@ -1,7 +1,7 @@
 +++
 baseURL = "https://www.trinitytakei.io"
 Categories = ["Digital Nomad", "Remote Work"]
-Description = "How (not) to digital nomad: A simple method to help you decide where (not) to travel next"
+Description = "What challenges remote workers are typically facing?"
 Tags = ["Digital Nomad", "Remote Work"]
 twImage=  "https://www.trinitytakei.io/images/6/nomad.jpeg"
 title = "Everything you Ever Wanted to Know About Remote Work, Part 0: The Dark Side"
@@ -9,17 +9,18 @@ title = "Everything you Ever Wanted to Know About Remote Work, Part 0: The Dark 
 
 {{< figure src="/images/6/nomad.jpeg" title="Photo by Hannah Wei on Unsplash" >}}
 
-I recently started on a series on remote work and living a nomadic lifestyle. The first two parts are almost ready:
+I'm about to kick off a remote work/nomadic lifestyle series (yay!). The first two parts are almost ready:
 
 1. “Overview” (what are your possibilities if you want to work remotely, detailing the upsides/downsides of each)
 2. “Hacking the Job Interview by Never Taking One” (I never had a single job interview in my life! Find out how I pulled it off).
 
 Sign up to the mailing list at the bottom of the article if you'd like to be notified once I release them!
 
+# Welcome to the Dark Side
 
-But first, let's start with a prologue: what challenges remote workers are facing? This is the single most asked question I’m getting on twitter, so I decided to finally answer it.
+First, let's start with a prologue: what challenges remote workers/digital are facing? This is the single most asked question I’m getting on twitter, so I decided to finally answer it.
 
-My aim is not to discourage you, but rather to paint a realistic picture of challenges you might face if you decide to go remote. Not all might apply to your situation, but it’s good to know about them anyway.
+My aim is not to discourage you, but rather to paint a realistic picture of challenges you might face if you decide to go remote. Not all of them might apply to your situation, but it’s good to know about them anyway.
 
 Here are a few things I wish someone told me before I got started with remote work:
 
