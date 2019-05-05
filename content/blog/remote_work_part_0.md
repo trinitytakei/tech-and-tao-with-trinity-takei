@@ -18,7 +18,7 @@ Sign up to the mailing list at the bottom of the article if you'd like to be not
 
 # Welcome to the Dark Side
 
-First, let's start with a prologue: what challenges remote workers/digital are facing? This is the single most asked question I’m getting on twitter, so I decided to finally answer it.
+First, let's start with a prologue: what challenges remote workers/digital nomads are facing? This is the single most asked question I’m getting on twitter, so I decided to finally answer it.
 
 My aim is not to discourage you, but rather to paint a realistic picture of challenges you might face if you decide to go remote. Not all of them might apply to your situation, but it’s good to know about them anyway.
 
@@ -77,7 +77,7 @@ You might think that hopping between all those exotic destinations is commonplac
 
 This makes sense - you have your own setup, reliable Wi-Fi, kitchen, you can take a nap whenever you want, be with your family and have a greater degree of freedom.
 
-Even if you decide to go nomad, you won’t travel nearly as much as you think you will - constant setup, finding reliable wifi, the hassle of figuring out all the things in your new location all the time can be frustrating - especially if you want to put in a good amount of work over a large swathes of time.
+Even if you decide to go nomad, you won’t travel nearly as much as you think you will - constant setup, finding reliable wifi, the hassle of figuring out all the things in your new location all the time can be frustrating - especially if you want to put in a good amount of work over large swathes of time.
 
 In the beginning your wanderlust will prevail and you won't even notice these challenges. However, the excitement will eventually wear off.
 
@@ -143,7 +143,7 @@ You'll have to do at least some (preferably more, or all) of these once you beco
 
 You’ll need a wide range of skills as a self-employed person.
 
-If you are hired as a Javascript engineer in a ‘standard’ company, that’s what you are going to do daily (doh). H
+If you are hired as a Javascript engineer in a ‘standard’ company, that’s what you are going to do daily (doh).
 
 However, if you are a freelancer, you need to be well-versed in so much more - communication, (copy)writing, networking, marketing, sales to name a few.
 
