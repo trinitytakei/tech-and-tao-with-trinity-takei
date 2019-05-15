@@ -39,7 +39,7 @@ There are near-infinite ways to skin this cat. Here are a few examples:
 	  * negotiating going remote with your current employer
 	  * applying for a remote-first job
 		* remote job boards [remoteok.io](https://remoteok.io)
-		* remote-first companies - you don’t necessarily need to search for a job opening - the great ones are usually hiring all the time!
+    * remote-first companies: you don’t necessarily need to search for a job opening - the great ones are usually hiring all the time
 * online marketplaces (Low Barrier to Entry - LBTE) freelancer.com, upwork.com, fiverr.com, peopleperhour.com, guru.com, outsourcely.com
 * online marketplaces (High Barrier to Entry - HBTE) TopTal, XTeam, codementor.io, gun.io, adevait.com
 * bespoke solutions - [Zerocracy](https://www.zerocracy.com)
@@ -99,11 +99,18 @@ Some of these jobs are still tied to a continent (like North America) or time zo
 
 Here’s a great list: [Top Remote Companies](https://weworkremotely.com/top-remote-companies)
 
-**Yay**: This is very similar to the previous option, except these companies have better-than-average remote cultures, well-fleshed-out processes (which are usually well documented - for example, Buffer is famous for being very transparent about their salaries, operations, leadership and pretty much everything else). The ones I know about organize yearly off-site team building sessions (everyone travels to the same location to meet in person, have fun, etc.) and provide other, remote-specific perks.
+**Yay**: This is very similar to the previous option, except these companies have better-than-average remote cultures, well-fleshed-out processes (which are usually well documented - for example, Buffer is famous for being very transparent about their salaries, operations, leadership and pretty much everything else). 
+
+The ones I know about organize yearly off-site team building sessions (everyone travels to the same location to meet in person, have fun, etc.) and provide other, remote-specific perks.
+
 **Nay**: The transparency and success of these companies also mean that an incredible amount of people know about them and want to get jobs there. Thus, of all the possibilities listed, you can expect the toughest competition here.
 
-On the other hand, unlike in the previous point, you don’t need to spend large swathes of time searching for the right company, since that is given. At the same time, you should expect to spend more time on the preparation. That said, this isn’t really ‘lost time ’ because even if you don’t get hired, you’ll still be able to use the preparation you’ve put in on the next application.
+On the other hand, unlike in the previous point, you don’t need to spend large swathes of time searching for the right company, since that is given. At the same time, you should expect to spend more time on the preparation.
+
+That said, this isn’t really ‘lost time ’ because even if you don’t get hired, you’ll still be able to use the preparation you’ve put in on the next application.
+
 **Who is it for**: More experienced developers, or candidates possessing unique skills (remember, you have to stand out in a HUGE crowd).
+
 **When**:  any time, but you need every edge you can get over the competition - therefore, ideally you should already have at least some remote work experience, or be a more senior, well-rounded developer.
 
 Due to the sheer number of applications these guys get, you’ll need a good grasp of the application process, hand-crafting your CV and cover letter.
@@ -113,22 +120,34 @@ Why?
 Because these guys filter out candidates aggressively (I heard this from a HotJar VP during a coffee). If you are a beginner, you will end up in the ‘nay’ pile for reasons you can’t even start to guess.
 
 You also need to tailor your application, your narrative, and your communication to the specific hiring process this company has.
+
 **Earning Potential**: High! Even in the rare case that the salary is not going to be that great, they are going to offset it with hard-to-resist perks.
 
 ## Online Marketplaces - LBTE
 
 **Yay**: Practically no  entry barrier (just create an account, set up your profile, and you are ready to start applying!)
+
 **Nay**: No entry barrier for you means no entry barrier for anybody. Captain Obvious also does birthday parties. But what does this mean?
 Well, you’ll be compete with a humongous pool of developers globally, with many offering their services for rock-bottom prices (think $3-$5 per hour).
-If an excellent (or well, any) new offer appears, (not just) these guys are going to be all over it like flies on shit. Most of these recruiters are clueless, so they’ll look at prices first and think ‘gee, I hit the jackpot - I can hire this guy from (insert a poor country here) for $3 per hour, that means he can deliver 500 hours of work for a laughable $1,500. Let’s hire him.’ The fact that he’ll most likely get what he’s paid for doesn’t make selling your $20+ services any easier, even though you might well provide the quality of work he needs.
+
+If an excellent (or well, any) new offer appears, (not just) these guys are going to be all over it like flies on shit.
+
+Most of these recruiters are clueless, so they’ll look at prices first and think ‘gee, I hit the jackpot - I can hire this guy from (insert a poor country here) for $3 per hour, that means he can deliver 500 hours of work for a laughable $1,500. Let’s hire him.’ 
+
+The fact that he’ll most likely get what he’s paid for doesn’t make selling your $20+ services any easier, even though you might well provide the quality of work he needs.
+
 Long story short: crazy competition, clueless clients, race-to-the-bottom wages, lots of yak shaving (time spent on everything but coding), a constant source of frustration and more. Generally, most of the horror stories you read are born here.
+
 **Who is it for**: Beginners/juniors. I would argue that even for them it is going to be the most useful to only get their feet wet, learn how to communication with prospective clients  get a feel for the work, and get out while the getting is good.
+
 That said, I know a few guys who make decent money on Upwork - but it’s usually happening after a long history of working together, or if you spent a lot of time on the system and managed to figure it out.
 
 Grabbing the quality jobs is more about ‘hacking the system’ with fantastic copywriting, knowing how and where to find great clients (and how to spot, reject, and fire bad ones), tweaking your profile to perfection and so on (observant readers might have noticed that ‘hacking the system’ doesn’t contain coding!)
 
 While this skill set is precious for any developer, if you’d instead prefer concentrating on coding at this point in your career, you’ll want to spend that time elsewhere (you know, sharpening your code-fu, for example).
+
 **When**: If you are just starting out.
+
 **Earning Potential**: Low. It’s possible to crank it up to a decent level (there are plenty of devs making $50/hour or more on Upwork), but you’ll probably find it easier doing that elsewhere.
 
 ## Online Marketplaces - HBTE
@@ -136,19 +155,20 @@ While this skill set is precious for any developer, if you’d instead prefer co
 I once tried getting into TopTal just for fun. Well, it was not fun (unless shitting bricks under time pressure is your idea of ‘fun’). I got through the first round (said to be the most difficult) on my initial attempt, only to crash and burn in round 2 (you have 15 minutes to solve a problem fully, while a recruiter looks on over your shoulder. Also, the solution has to work correctly considering edge cases. I went off-track on a stupid edge case and ran out of time.)
 
 **Yay**: Unlike LBTE marketplaces, you can make a decent buck here, the competition is way lower (since the barrier to entry is so high - Toptal, for example, claims that they employ the top 3% of developers. I hear others are even more strict). Once you’re in, you can expect a steady stream of work with good to great clients, for reasonable money (depending on your negotiation skills - I mentioned ‘Never Split the Difference’ above - it’s worth mentioning again!)
+
 **Nay**: You have to be well-prepared (and prepare some more for the specific company of your choice), and it’s going to be a time consuming, arduous process. There are multiple rounds: HR call, automated, timed coding interview (Codility, HackerRank etc.), live interview (anything goes) and finally a take-home assignment which will usually take weeks to complete (they don’t expect you to reimplement Facebook, but still, the app has to be polished, tested, contain some show-off codes/features, etc).
 
 The assignment is then reviewed again during a live session, and it’s not unheard of to fail this round, so it won’t be a walk in the park (i.e. rather than just commenting ‘cool app, bro!’ they are going to grill you properly, getting into the nitty-gritty details and throwing you various curve balls).
+
 **Who is it for**: Experienced/senior devs only. You can apply regardless of your skill level (if for nothing else, to see how it works), but it’s a challenging set of hurdles you have to jump over to succeed.
 
 **When**: Anytime, as long as you are an experienced developer.
 
 **Earning Potential**: High - my sample size is not representative by any means, but the few devs I spoke to were charging between $50-$100 per hour.
 
-
 ## Remote Consulting
 
-Since there are various (sometimes conflicting) definitions of software consulting out there, let’s use this one from [https://daedtech.com/software-consulting/]:
+Since there are various (sometimes conflicting) definitions of software consulting out there, let’s use this one - [Software Consulting](https://daedtech.com/software-consulting/):
 
 _What is Software Consulting?_
 _The providing of expert knowledge in the software space to a third party for a fee.  Software consulting is most often used when a company needs an outside, expert opinion regarding a business decision._
@@ -156,23 +176,32 @@ _The providing of expert knowledge in the software space to a third party for a 
 In other words, rather than writing code, you are telling your clients _why_ and  _how_ they should write code (notice that according to this definition, you are not supposed to write any code yourself, but rather dispense your hard-earned knowledge in exchange for cold, hard cash)
 
 **Yay**: Choose your clients, change projects often (this might be cited as a negative thing as well - your mileage might vary), work on well-defined tasks, dictate high prices, ‘hire’ (and fire) your clients, a high level of flexibility
-** Nay **: Nowhere near the stability of a ‘proper’ remote job (on the flip side, nowhere near the restrictions of a proper remote job either). The volatility (changing clients/projects often, working for a different amount of time on each) might be off-putting to some.
-** Who is it for **: Developers with specific expertise in a narrow topic or tool.  You really have to be the belle of the ball to take a shot at true consulting.
-** When **: Whenever, as long as you have that specific skill that makes you a true expert and possess unique knowledge. The idea is that it’s easier/cheaper for the client to hire you than to figure it out themselves. ,
-**Earning Potential** Very High
+
+**Nay**: Nowhere near the stability of a ‘proper’ remote job (on the flip side, nowhere near the restrictions of a proper remote job either). The volatility (changing clients/projects often, working for a different amount of time on each) might be off-putting to some.
+
+**Who is it for**: Developers with specific expertise in a narrow topic or tool.  You really have to be the belle of the ball to take a shot at true consulting.
+
+**When**: Whenever, as long as you have that specific skill that makes you a true expert and possess unique knowledge. The idea is that it’s easier/cheaper for the client to hire you than to figure it out themselves.
+
+**Earning Potential** Very high
 
 ## Bespoke Solutions
 It’s difficult to list these precisely because they are unique and special (so  you’ll have to shake and kick the Google tree harder than usual), but I’d like to mention one that stood out: [https://www.zerocracy.com ]. Zerocracy is a one-of-its-kind company/way of banging out projects.
 
-**Yay**: There are very few things I can wholeheartedly say this about nowadays, but: Zerocracy is zero-bullshit certified. It can’t get any more transparent than this. Puzzle Driven Development (PDD) is a fascinating new way of managing tasks in a project, it can’t be compared to any other methodology I worked with so far (SCRUM, agile (whatever that means), RUP etc., have nothing on PDD). The processes are so clearly defined that when I first came across this, I was thinking ‘why the hell isn’t everyone doing project management like this?!’
-**Nay**: There are no real downsides here, but the MC running this fabulous show, Yegor Bugayenko (@yegor256, [https://www.yegor256.com/]) has some strongly held opinions and ab exotic work style. However, there is definitely a (well-defined) method to his madness.
+**Yay**: There are very few things I can wholeheartedly say this about nowadays, but: Zerocracy is zero-bullshit certified. It can’t get any more transparent than this. Puzzle Driven Development (PDD) is a fascinating new way of managing tasks in a project, it can’t be compared to any other methodology I worked with so far (SCRUM, agile (whatever that means), RUP etc., have nothing on PDD). 
 
-I agree with him on most things, but you might not, so be sure to check out his blog, youtube videos ([https://www.youtube.com/user/technoparkcorp]) to make sure you also agree, and you’re OK working under these circumstances.
+The processes are so clearly defined, so intuitive and simple to follow that when I first came across this, I was thinking ‘why the hell isn’t everyone doing project management like this?!’
+
+**Nay**: There are no real downsides here, but the MC running this fabulous show, Yegor Bugayenko (@yegor256, [Yegor's Blog](https://www.yegor256.com/)) has some strongly held opinions and an exotic work style. However, there is definitely a (well-defined) method to his madness.
+
+I agree with him on most things, but you might not, so be sure to check out his blog, youtube videos ([YegorTube](https://www.youtube.com/user/technoparkcorp)) to make sure you also agree, and you’re OK working under these circumstances.
+
 **Who is it for**: Everyone who can adapt to the very atypical work environment (for example - no Slack, or any other form of communication among people on the same project).
 
 You are assigned a mentor from the get-go, so unless you are a total beginner, and you are a fast learner, you could give it a shot - but see the next point.
 
 **When**: I would not start here if it were my first remote job. Unless you are truly senior and have ample experience with various methodologies, consider leveling up elsewhere first.
+
 **Earning Potential** Dependent on your experience - potentially very high. Even if you don’t start with a very high hourly rate, your prospects of moving up the ladder are probably the best of all the methods discussed so far.
 
 ## Independent Freelancing
@@ -184,11 +213,17 @@ Independent freelancing means that you define some services you’ll offer, prep
 **Yay**:  Freedom! Like, real, no-strings-attached freedom. If you have enough money, you can take off as many time as you want between projects (cash in the bank is the only limit - three-month trekking in Patagonia? Go for it. Mount Everest base camp - be my guest).
 
 If you are doing great work (word-of-mouth is still a powerful driving force), you should be able to make more money than with the other methods we’ve checked out so far.
-** Nay **: As always, freedom comes at the cost of stability. It also means a lot more work (see next point), potentially feast and famine cycles, managing things you never thought a software engineer should manage, less coding than in a typical job, and more stress.
-** Who is it for **: Seasoned developers who are OK putting in more work than the ‘traditional’ workplaces require.
+
+**Nay**: As always, freedom comes at the cost of stability. It also means a lot more work (see next point), potentially feast and famine cycles, managing things you never thought a software engineer should manage, less coding than in a typical job, and more stress.
+
+**Who is it for**: Seasoned developers who are OK putting in more work than the ‘traditional’ workplaces require.
+
 ‘More work’ doesn’t necessarily mean coding, but things like: finding clients,  chasing payments, maintaining an online presence, communicating way more than you ever thought possible, extra paperwork and more.
+
 Risk-averse people should think this through thoroughly, OR have a sizeable financial cushion to weather the dry spells.
-** When **: Once you learned the ropes elsewhere and feel confident about your skills as well as the lifestyle. I would not recommend this to remote beginners or junior devs.
+
+**When**: Once you learned the ropes elsewhere and feel confident about your skills as well as the lifestyle. I would not recommend this to remote beginners or junior devs.
+
 **Earning Potential** Unlimited!
 
 Well, it’s limited by the billable hours you put in. Ideally it should be eight hours per day at the very maximum, preferably less (seeing as you’ll also have to do non-billable things).
@@ -209,21 +244,22 @@ It’s just you and the course you are creating. So Zen!
 
 **Nay**: While ‘ultimate freedom’ might sound great, you can’t have your cake and eat it too!
 
-For starters, you will need exceptional discipline - lack of meetings, check-ins, planning from your manager (and accountability to ensure you are sticking to the plan), milestones, deadlines etc. are non-existent by default. While this might sound awesome at first, you will soon realize that without putting a system in-place, you won’t get very far.  Once the honeymoon phase fueled by the initial burst of motivation will be over, procrastination, second-guessing yourself, loss of focus etc. kick in.
+For starters, you will need exceptional discipline - lack of meetings, check-ins, planning from your manager (and accountability to ensure you are sticking to the plan), milestones, deadlines etc. are non-existent by default. 
 
-Loneliness is another factor - unless you are creating the course together with someone  else (not a very typical scenario), you will feel alone and isolated at least some of the time.
+While this might sound awesome at first, you will soon realize that without putting a system in place, you won’t get very far.  Once the honeymoon phase fueled by the initial burst of motivation will be over, procrastination, second-guessing yourself, loss of focus etc. kick in.
 
-Last but not least: it will takes a relatively long time to see the fruits of your labor.
+Loneliness is another factor - unless you are creating the course together with someone else (not a very typical scenario), you will feel alone and isolated at least some of the time.
 
-Of course, there are solutions to all these problems (topic for another blog entry - tl;dr: create your own systems and stick to them, join accountability sites like [https://wip.chat], work from coworking spaces to fight loneliness). My point is that you have to make a reality check and know what you are signing up for - great freedom comes with great responsibility.
+Last but not least: it will take a relatively long time to see the fruits of your labor.
 
+Of course, there are solutions to all these problems (topic for another blog entry - tl;dr: create your own systems and stick to them, join accountability sites like [wip.chat](https://wip.chat), work from coworking spaces to fight loneliness). My point is that you have to make a reality check and know what you are signing up for - great freedom comes with great responsibility.
 
 **Who is it for**: For entrepreneurs who are good at explaining complex things in an easy to comprehend fashion, have strong writing or presentation skills.
 
 You don’t need to be an expert to start here. There are (at least) two ways to succeed:
 
-1. Be an expert - I think this point is obvious  
-2. Be a curious novice - embrace the notion of a ‘relative expert’: you don’t need to be an expert on a global scale, it’s enough if you know more than your prospective students.
+1. Be an expert
+2. Be a curious novice - embrace the notion of the ‘relative expert’: you don’t need to be an expert on a global scale, it’s enough if you know more than your prospective students.
 
 The curious novice can do something that the expert can’t: documenting the journey of discovery. The expert, on the other hand, has the ‘curse of knowledge’: (s)he doesn’t know what (s)he doesn’t know.
 
@@ -231,6 +267,7 @@ Read more here: [How To Make Money With An Awesome Online Course: The Complete G
 
 
 **When**: Anytime you feel like you gained enough non-trivial information or a comprehensive, broad overview of a topic and you are ready to put in the work to turn it into an infoproduct
+
 **Earning Potential** Unlimited, recurring, create-once-and-profit, sweet dollar rain. 7-figure courses are not uncommon at all.
 
 ## Making Products (Bootstrapping, SaaS)
@@ -254,9 +291,7 @@ You need to make sure which of the above - this option needs extreme dedication,
 
 **Yay**: See the ‘Yay’ section of the previous point (creating courses) - the positives here are virtually identical (total freedom).
 
-There are some additional positive points here: creating a product is a more social activity. You can discuss, code together, ask for advice more naturally than int he case of info product creation, which is a more individualistic way of creation.
-
-
+There are some additional positive points here: creating a product is a more social activity than course creation. You can discuss, code together, ask for advice more naturally than int he case of infoproduct making, which is a more individualistic way of working.
 
 **Nay**:  See the ‘Nay’ section of the previous point (creating courses) - the negatives here are virtually identical.
 
