@@ -40,8 +40,8 @@ There are near-infinite ways to skin this cat. Here are a few examples:
 	  * applying for a remote-first job
 		* remote job boards [remoteok.io](https://remoteok.io)
     * remote-first companies: you don’t necessarily need to search for a job opening - the great ones are usually hiring all the time
-* online marketplaces (Low Barrier to Entry - LBTE) freelancer.com, upwork.com, fiverr.com, peopleperhour.com, guru.com, outsourcely.com
-* online marketplaces (High Barrier to Entry - HBTE) TopTal, XTeam, codementor.io, gun.io, adevait.com
+* online marketplaces (Low Barrier to Entry - LBTE) [freelancer.com], [upwork.com], [fiverr.com], [peopleperhour.com], [guru.com], [outsourcely.com]
+* online marketplaces (High Barrier to Entry - HBTE) [toptal.com], [x-team.com/], [codementor.io], [gun.io], [adevait.com]
 * bespoke solutions - [Zerocracy](https://www.zerocracy.com)
 * remote consulting
 * independent freelancing
@@ -67,9 +67,12 @@ If you discover it’s not for you, it’s relatively painless to go back to the
 
 **Earning Potential**: Dependent on your current salary. You probably won’t be able to squeeze out more than you’ve already got, but you shouldn’t be content with less either.
 
-If it becomes apparent during the negotiation that your boss thinks you are worth less as a remote dev, then it might be time to consider one of the other options below. Resource: Never Split the Difference
+If it becomes apparent during the negotiation that your boss thinks you are worth less as a remote dev, then it might be time to consider one of the other options below. 
+
+Check out this fabulous book to up your negotiation game: [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2)
 
 ## Working Remotely for an Established Company - Remote Job Boards
+
 
 _A whole new world_  
 _A new fantastic point of view_  
@@ -83,13 +86,13 @@ A whole new world, indeed - you have tons of options, even if you’d like to wo
 
 **Yay**: Instead of going with a well-defined option (i.e. your current job), you’ll browse offers and pick ones that best suit your needs, skill set, and goals from a huge (and ever growing) pool of options. This is a great way to balance the possibly too well defined, single option and the too nerve-racking option (freelancing, bootstrapping) where you constantly have to scramble to put together the puzzle pieces.
 
-**Nay** : It’s a more time-consuming option than the previous alternative, which will potentially (And very probably) consume a lot of time in order for you to find the best match.
+**Nay** : It’s a more time-consuming option than the previous alternative, which will potentially (and very probably) consume a lot of time in order for you to find the best match.
 
 To some extent, you are buying a cat-in-a-bag here (more so than going remote for your current employer, or taking a shot at a remote-first company with a well-defined culture and documented history like Buffer, Automattic, or Hotjar).
 
 Some of these jobs are still tied to a continent (like North America) or time zone .
 
-**Who is it for**: Typically more experienced developers (although companies hiring remote remote juniors do exist, they’re relatively rare). This is still among the safer bets (compared to, e.g., independent freelancing or creating your own products), so it is one of the compelling options if you’re just getting started with remote work.
+**Who is it for**: Typically more experienced developers (although companies hiring remote juniors do exist, but they’re relatively rare). This is still among the safer bets (compared to, e.g., independent freelancing or creating your own products), so it is one of the compelling options if you’re just getting started with remote work.
 
 **When**: Virtually anytime - whether you are getting started, have been working in a 9-5 for decades, or anything in-between.
 
@@ -117,7 +120,7 @@ Due to the sheer number of applications these guys get, you’ll need a good gra
 
 Why?
 
-Because these guys filter out candidates aggressively (I heard this from a HotJar VP during a coffee). If you are a beginner, you will end up in the ‘nay’ pile for reasons you can’t even start to guess.
+Because these companies filter out candidates aggressively (I heard this from a HotJar VP during a coffee). If you are a beginner, you will end up in the ‘nay’ pile for reasons you can’t even start to guess.
 
 You also need to tailor your application, your narrative, and your communication to the specific hiring process this company has.
 
@@ -127,7 +130,10 @@ You also need to tailor your application, your narrative, and your communication
 
 **Yay**: Practically no  entry barrier (just create an account, set up your profile, and you are ready to start applying!)
 
-**Nay**: No entry barrier for you means no entry barrier for anybody. Captain Obvious also does birthday parties. But what does this mean?
+**Nay**: No entry barrier for you means no entry barrier for anybody. Captain Obvious also does birthday parties!
+
+But what does this mean?
+
 Well, you’ll be compete with a humongous pool of developers globally, with many offering their services for rock-bottom prices (think $3-$5 per hour).
 
 If an excellent (or well, any) new offer appears, (not just) these guys are going to be all over it like flies on shit.
@@ -183,20 +189,20 @@ In other words, rather than writing code, you are telling your clients _why_ and
 
 **When**: Whenever, as long as you have that specific skill that makes you a true expert and possess unique knowledge. The idea is that it’s easier/cheaper for the client to hire you than to figure it out themselves.
 
-**Earning Potential** Very high
+**Earning Potential**: Very high
 
 ## Bespoke Solutions
-It’s difficult to list these precisely because they are unique and special (so  you’ll have to shake and kick the Google tree harder than usual), but I’d like to mention one that stood out: [https://www.zerocracy.com ]. Zerocracy is a one-of-its-kind company/way of banging out projects.
+It’s difficult to list these precisely because they are unique and special (so  you’ll have to shake and kick the Google tree harder than usual), but I’d like to mention one that stood out: [Zerocracy](https://www.zerocracy.com). Zerocracy is a one-of-its-kind company/way of banging out projects.
 
-**Yay**: There are very few things I can wholeheartedly say this about nowadays, but: Zerocracy is zero-bullshit certified. It can’t get any more transparent than this. Puzzle Driven Development (PDD) is a fascinating new way of managing tasks in a project, it can’t be compared to any other methodology I worked with so far (SCRUM, agile (whatever that means), RUP etc., have nothing on PDD). 
+**Yay**: There are very few things I can wholeheartedly say this about nowadays, but: Zerocracy is zero-bullshit certified. It can’t get any more transparent than this. [Puzzle Driven Development (PDD)](https://www.yegor256.com/2010/03/04/pdd.html) is a fascinating new way of managing tasks in a project, it can’t be compared to any other methodology I worked with so far (SCRUM, agile (whatever that means), RUP etc., have nothing on PDD). 
 
 The processes are so clearly defined, so intuitive and simple to follow that when I first came across this, I was thinking ‘why the hell isn’t everyone doing project management like this?!’
 
-**Nay**: There are no real downsides here, but the MC running this fabulous show, Yegor Bugayenko (@yegor256, [Yegor's Blog](https://www.yegor256.com/)) has some strongly held opinions and an exotic work style. However, there is definitely a (well-defined) method to his madness.
+**Nay**: There are no real downsides here, but the MC running this fabulous show, Yegor Bugayenko ([@yegor256](https://twitter.com/yegor256), [Yegor's Blog](https://www.yegor256.com/)) has some strongly held opinions and an exotic work style. However, there is definitely a (well-defined) method to his madness.
 
 I agree with him on most things, but you might not, so be sure to check out his blog, youtube videos ([YegorTube](https://www.youtube.com/user/technoparkcorp)) to make sure you also agree, and you’re OK working under these circumstances.
 
-**Who is it for**: Everyone who can adapt to the very atypical work environment (for example - no Slack, or any other form of communication among people on the same project).
+**Who is it for**: Everyone who can adapt to the very atypical work environment (for example - no Slack, or any other form of communication among people on the same project. Talk about fully remote!)
 
 You are assigned a mentor from the get-go, so unless you are a total beginner, and you are a fast learner, you could give it a shot - but see the next point.
 
@@ -210,7 +216,7 @@ We’re moving from ‘packaged solutions’ (where most things are more or less
 
 Independent freelancing means that you define some services you’ll offer, prepare a portfolio, set your prices and go client hunting.
 
-**Yay**:  Freedom! Like, real, _almost_-no-strings-attached freedom. If you have enough money, you can take off as many time as you want between projects (cash in the bank is the only limit - three-month trekking in Patagonia? Go for it. Mount Everest base camp - be my guest).
+**Yay**:  Freedom! Like, real, _almost_-no-strings-attached freedom. If you have enough money, you can take off as many time as you want between projects (cash in the bank is the only limit - three-month trekking in Patagonia? Go for it. Mount Everest base camp - be my guest!)
 
 If you are doing great work (word-of-mouth is still a powerful driving force), you should be able to make more money than with the other methods we’ve checked out so far.
 
@@ -228,7 +234,7 @@ Risk-averse people should think this through thoroughly, OR have a sizeable fina
 
 Well, it’s limited by the billable hours you put in. Ideally it should be eight hours per day at the very maximum, preferably less (seeing as you’ll also have to do non-billable things).
 
-Your hourly rate is going to have certain limits as well (if that’s not the case, you wouldn be probably chilling on your yacht near your private island instead of reading this article).
+Your hourly rate is going to have certain limits as well (if that’s not the case, you would be probably chilling on your yacht near your private island instead of reading this article).
 
 If you multiply two limited numbers, the result will have an upper limit as well. However, this upper limit is going to be typically way higher than what we’ve discussed so far. Given the volatility and amount of risk involved, this is only fair!
 
@@ -268,7 +274,7 @@ Read more here: [How To Make Money With An Awesome Online Course: The Complete G
 
 **When**: Anytime you feel like you gained enough non-trivial information or a comprehensive, broad overview of a topic and you are ready to put in the work to turn it into an infoproduct
 
-**Earning Potential** Unlimited, recurring, create-once-and-profit, sweet dollar rain. 7-figure courses are not uncommon at all.
+**Earning Potential**: Unlimited, recurring, create-once-and-profit, sweet dollar rain. 7-figure courses are not uncommon at all.
 
 ## Making Products (Bootstrapping, SaaS)
 
@@ -291,7 +297,7 @@ You need to make sure which of the above - this option needs extreme dedication,
 
 **Yay**: See the ‘Yay’ section of the previous point (creating courses) - the positives here are virtually identical (total freedom).
 
-There are some additional positive points here: creating a product is a more social activity than course creation. You can discuss, code together, ask for advice more naturally than int he case of infoproduct making, which is a more individualistic way of working.
+There are some additional positive points here: creating a product is a more social activity than course creation. You can discuss, code together, ask for advice more naturally than in the case of infoproduct making, which is a more individualistic way of working.
 
 **Nay**:  See the ‘Nay’ section of the previous point (creating courses) - the negatives here are virtually identical.
 
