@@ -40,8 +40,8 @@ There are near-infinite ways to skin this cat. Here are a few examples:
 	  * applying for a remote-first job
 		* remote job boards [remoteok.io](https://remoteok.io)
     * remote-first companies: you don’t necessarily need to search for a job opening - the great ones are usually hiring all the time
-* online marketplaces (Low Barrier to Entry - LBTE) [freelancer.com], [upwork.com], [fiverr.com], [peopleperhour.com], [guru.com], [outsourcely.com]
-* online marketplaces (High Barrier to Entry - HBTE) [toptal.com], [x-team.com/], [codementor.io], [gun.io], [adevait.com]
+* online marketplaces (Low Barrier to Entry - LBTE) [Freelancer](https://freelancer.com), [UpWork](https://upwork.com), [Fiverr](https://fiverr.com), [PeoplePerHour](https://peopleperhour.com), [Guru](https://guru.com), [Outsourcely](https://outsourcely.com)
+* online marketplaces (High Barrier to Entry - HBTE) [TopTal](https://toptal.com), [X-Team](https://x-team.com), [Codementor](https://codementor.io), [Gun.io](https://gun.io), [Adevait](https://adevait.com)
 * bespoke solutions - [Zerocracy](https://www.zerocracy.com)
 * remote consulting
 * independent freelancing
