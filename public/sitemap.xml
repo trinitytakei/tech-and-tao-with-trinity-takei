@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>https://www.trinitytakei.io/blog/remote_work_part_1/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.trinitytakei.io/blog/17-traits-of-awesome-tech-leads/</loc>
   </url>
   
@@ -55,12 +59,27 @@
   </url>
   
   <url>
+    <loc>https://www.trinitytakei.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.trinitytakei.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.trinitytakei.io/categories/dev/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/tags/digital-nomad/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/categories/digital-nomad/</loc>
     <priority>0</priority>
   </url>
   
@@ -75,8 +94,17 @@
   </url>
   
   <url>
+    <loc>https://www.trinitytakei.io/tags/digitalnomad/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.trinitytakei.io/tags/e-commerce/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/blog/remote_work_part_0/</loc>
   </url>
   
   <url>
@@ -86,11 +114,6 @@
   
   <url>
     <loc>https://www.trinitytakei.io/archive/a-new-beginning/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.trinitytakei.io/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -133,6 +156,26 @@
   </url>
   
   <url>
+    <loc>https://www.trinitytakei.io/tags/rant/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/categories/rants/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/tags/remote-work/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/categories/remote-work/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.trinitytakei.io/tags/sales/</loc>
     <priority>0</priority>
   </url>
@@ -171,7 +214,21 @@
   </url>
   
   <url>
+    <loc>https://www.trinitytakei.io/blog/the_instagram_test/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.trinitytakei.io/tags/tips/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/tags/travel/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trinitytakei.io/categories/travel/</loc>
     <priority>0</priority>
   </url>
   

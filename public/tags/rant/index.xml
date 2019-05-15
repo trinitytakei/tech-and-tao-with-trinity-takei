@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rant on Bootstrapping | Remote Work | Writing | Lifehacking | Jascript | Rails | Vue | Ruby</title>
+    <link>https://www.trinitytakei.io/tags/rant/</link>
+    <description>Recent content in Rant on Bootstrapping | Remote Work | Writing | Lifehacking | Jascript | Rails | Vue | Ruby</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://www.trinitytakei.io/tags/rant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Instagram Test</title>
+      <link>https://www.trinitytakei.io/blog/the_instagram_test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.trinitytakei.io/blog/the_instagram_test/</guid>
+      <description>Photo by Allen Leigh on Unsplash   Perhaps the most frequent question in every digital nomad group is some variation of &amp;lsquo;where should I travel next and what should I do there.&amp;rsquo;
+I&amp;rsquo;m proposing a simple guide to help you with your decision: the Instagram Test.
+It&amp;rsquo;s straightforward: are you going to a place primarily to take a selfie? So that you can hang it on your Instagram/Facebook wall later?</description>
+    </item>
+    
+  </channel>
+</rss>

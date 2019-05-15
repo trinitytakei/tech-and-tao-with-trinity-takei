@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jascript | Rails | Vue | Ruby | Remote | Lifehacking</title>
+    <title>Bootstrapping | Remote Work | Writing | Lifehacking | Jascript | Rails | Vue | Ruby</title>
     <link>https://www.trinitytakei.io/</link>
-    <description>Recent content on Jascript | Rails | Vue | Ruby | Remote | Lifehacking</description>
+    <description>Recent content on Bootstrapping | Remote Work | Writing | Lifehacking | Jascript | Rails | Vue | Ruby</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
@@ -18,6 +18,16 @@
       <guid>https://www.trinitytakei.io/archive/preventing_abandonware/</guid>
       <description>Testing the make_rails_great_again generator:
 creating new Rails app (with current version of Rails et al - maybe scanning npm packages &amp;amp; commiting?) running the generator deploying to CircleCI or similar sending out email if fails</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.trinitytakei.io/blog/remote_work_part_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.trinitytakei.io/blog/remote_work_part_1/</guid>
+      <description>Everything you Ever Wanted to Know About Remote Work, Part I: The Ultimate Guide to Finding your Remote Dream Job Recently, a reader wanted to know how to find a job so as to become location-independent.
+“I’ve been considering the remote/DN life for a bit now and I have a very basic question I’m looking to get more details on: Where do you find your gigs? Having a FTE position, I always know where my work is coming from.</description>
     </item>
     
     <item>
@@ -40,7 +50,17 @@ They simply give up their resources.
       <guid>https://www.trinitytakei.io/blog/book_review_256_bloghacks_by_yegor_bugayenko/</guid>
       <description>Author’s TL;DR: This book summarizes my experience of blogging for two and a half years, growing from zero to 60,000 unique visitors a month at www.yegor256.com; all dirty secrets revealed.
 My TL;DR: LOVED it! Easily 5&amp;frasl;5. Read my detailed review below to find out why.
-Let me preface my review with this: 256 Bloghacks is not for everyone. Yegor doesn’t pull any punches - he hits it off with a swift sambo kick in the balls right on page one:</description>
+  Image Credit: http://bloghacks.yegor256.com/   Let me preface my review with this: 256 Bloghacks is not for everyone. Yegor doesn’t pull any punches - he hits it off with a swift sambo kick in the balls right on page one:</description>
+    </item>
+    
+    <item>
+      <title>Everything you Ever Wanted to Know About Remote Work, Part 0: The Dark Side</title>
+      <link>https://www.trinitytakei.io/blog/remote_work_part_0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.trinitytakei.io/blog/remote_work_part_0/</guid>
+      <description>Photo by Hannah Wei on Unsplash   I&amp;rsquo;m about to kick off a remote work/nomadic lifestyle series (yay!). The first two parts are almost ready:
+ “Overview” (what are your possibilities if you want to work remotely, detailing the upsides/downsides of each) “Hacking the Job Interview by Never Taking One” (I never had a single job interview in my life! Find out how I pulled it off).</description>
     </item>
     
     <item>
@@ -95,6 +115,17 @@ Asked friends and other store owners for feedback.
 When it was all said and done, cut the ribbon and &amp;hellip; crickets.
 Or rather, lots of lurkers, but no buyers.
 At first, we calmed ourselves.</description>
+    </item>
+    
+    <item>
+      <title>The Instagram Test</title>
+      <link>https://www.trinitytakei.io/blog/the_instagram_test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.trinitytakei.io/blog/the_instagram_test/</guid>
+      <description>Photo by Allen Leigh on Unsplash   Perhaps the most frequent question in every digital nomad group is some variation of &amp;lsquo;where should I travel next and what should I do there.&amp;rsquo;
+I&amp;rsquo;m proposing a simple guide to help you with your decision: the Instagram Test.
+It&amp;rsquo;s straightforward: are you going to a place primarily to take a selfie? So that you can hang it on your Instagram/Facebook wall later?</description>
     </item>
     
     <item>
