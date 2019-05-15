@@ -210,7 +210,7 @@ We’re moving from ‘packaged solutions’ (where most things are more or less
 
 Independent freelancing means that you define some services you’ll offer, prepare a portfolio, set your prices and go client hunting.
 
-**Yay**:  Freedom! Like, real, no-strings-attached freedom. If you have enough money, you can take off as many time as you want between projects (cash in the bank is the only limit - three-month trekking in Patagonia? Go for it. Mount Everest base camp - be my guest).
+**Yay**:  Freedom! Like, real, _almost_-no-strings-attached freedom. If you have enough money, you can take off as many time as you want between projects (cash in the bank is the only limit - three-month trekking in Patagonia? Go for it. Mount Everest base camp - be my guest).
 
 If you are doing great work (word-of-mouth is still a powerful driving force), you should be able to make more money than with the other methods we’ve checked out so far.
 
@@ -228,7 +228,7 @@ Risk-averse people should think this through thoroughly, OR have a sizeable fina
 
 Well, it’s limited by the billable hours you put in. Ideally it should be eight hours per day at the very maximum, preferably less (seeing as you’ll also have to do non-billable things).
 
-Your hourly rate is going to have certain limits as well (if that’s not the case, you wouldn’t probably be chilling on your yacht near your private island instead of reading this article).
+Your hourly rate is going to have certain limits as well (if that’s not the case, you wouldn be probably chilling on your yacht near your private island instead of reading this article).
 
 If you multiply two limited numbers, the result will have an upper limit as well. However, this upper limit is going to be typically way higher than what we’ve discussed so far. Given the volatility and amount of risk involved, this is only fair!
 
