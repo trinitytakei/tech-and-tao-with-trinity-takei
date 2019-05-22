@@ -9,7 +9,7 @@ title = "Everything you Ever Wanted to Know About Remote Work, Part 0: The Dark 
 
 {{< figure src="/images/6/nomad.jpeg" title="Photo by Hannah Wei on Unsplash" >}}
 
-Psst: I kicked off a remote work/nomadic lifestyle series (yay!). The first part is ready: [Everything you Ever Wanted to Know About Remote Work, Part 1: The Ultimate Guide to Finding your Remote Dream Job](https://www.trinitytakei.io/blog/remote_work_part_1/). I'm almost done with the second part "Hacking the Job Interview by Never Taking One" (I never had a single job interview in my life! Find out how I pulled it off).
+Psst: I kicked off a remote work/nomadic lifestyle series (yay!). The first part is ready: [Everything you Ever Wanted to Know About Remote Work, Part 1: The Ultimate Guide to Finding your Remote Dream Job](https://www.trinitytakei.io/blog/remote_work_part_1/). I'm almost done with the second part "Everything you Ever Wanted to Know About Remote Work, Part 2: Hacking the Job Interview by Never Taking One" (I never had a single job interview in my life! Find out how I pulled it off).
 
 Sign up to the mailing list at the bottom of the article if you'd like to be notified once I release them!
 
