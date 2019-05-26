@@ -6,7 +6,7 @@ Tags = ["Bookreviews","Blogging"]
 title = "Book Review: 256 Bloghacks by Yegor Bugayenko"
 +++
 
-Author’s TL;DR: _This book summarizes my experience of blogging for two and a half years, growing from zero to 60,000 unique visitors a month at www.yegor256.com; all dirty secrets revealed._
+Author’s TL;DR: _This book summarizes my experience of blogging for two and a half years, growing from zero to 60,000 unique visitors a month at www.yegor256.com; all dirty secrets revealed!_
 
 My TL;DR: LOVED it! Easily 5/5. Read my detailed review below to find out why.
 
